@@ -11,9 +11,6 @@
       "ip": "dzjh.o-r.kr",
       "port": 25565,
       "version": "1.21.4",
-
-      "autoconnect": true,
-
       "modpack": {
         "type": "forge-less",
         "source": "vanilla",
