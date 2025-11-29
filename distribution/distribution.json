@@ -11,7 +11,7 @@
       "id": "ddn-1-21-4",
       "name": "뒷동네 (Minecraft 1.21.4)",
       "description": "뒷동네 힐링 서버 (Purpur 1.21.4)",
-      "icon": "https://raw.githubusercontent.com/siny9113/ddn/refs/heads/main/distribution/logo.png",
+      "icon": "https://raw.githubusercontent.com/siny9113/ddn/main/distribution/logo.png",
       "version": "1.0.0",
       "address": "dzjh.o-r.kr:25565",
       "minecraftVersion": "1.21.4",
