@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "meta": {
     "serverName": "뒷동네",
     "serverDescription": "힐링 마크서버 뒷동네 런처",
@@ -9,20 +8,21 @@
     {
       "id": "ddn",
       "name": "뒷동네 서버",
-      "mainServer": true,
-      "minecraftVersion": "1.21.4",
-      "address": "dzjh.o-r.kr",
+      "ip": "dzjh.o-r.kr",
       "port": 25565,
-      "modules": [
-        {
-          "id": "vanilla",
-          "name": "Vanilla",
-          "type": "vanilla",
-          "required": {
-            "value": true
-          }
-        }
-      ]
+      "version": "1.21.4",
+      "modpack": {
+        "type": "forge-less",
+        "source": "vanilla",
+        "resourcepack": "https://drive.google.com/uc?export=download&id=1_yI5mR0XuC_tiuhaX6VXfXeD6cOIplps",
+        "shader": false
+      }
     }
-  ]
+  ],
+  "launch": {
+    "memory": {
+      "min": 2048,
+      "max": 4096
+    }
+  }
 }
