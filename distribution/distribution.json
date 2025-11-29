@@ -10,7 +10,19 @@
       "name": "뒷동네 서버",
       "ip": "dzjh.o-r.kr",
       "port": 25565,
-      "version": "1.21.4"
+      "version": "1.21.4",
+      "modpack": {
+        "type": "forge-less",
+        "source": "vanilla",
+        "resourcepack": "https://drive.google.com/uc?export=download&id=1_yI5mR0XuC_tiuhaX6VXfXeD6cOIplps",
+        "shader": false
+      }
     }
-  ]
+  ],
+  "launch": {
+    "memory": {
+      "min": 2048,
+      "max": 4096
+    }
+  }
 }
