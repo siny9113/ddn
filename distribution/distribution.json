@@ -1,28 +1,28 @@
 {
-  "meta": {
-    "serverName": "뒷동네",
-    "serverDescription": "힐링 마크서버 뒷동네 런처",
-    "icon": "https://drive.google.com/uc?export=download&id=1_yI5mR0XuC_tiuhaX6VXfXeD6cOIplps"
+  "version": "1.0.0",
+  "rss": "",
+  "discord": {
+    "clientId": "",
+    "smallImageText": "",
+    "smallImageKey": ""
   },
   "servers": [
     {
-      "id": "ddn",
-      "name": "뒷동네 서버",
-      "ip": "dzjh.o-r.kr",
-      "port": 25565,
-      "version": "1.21.4",
-      "modpack": {
-        "type": "forge-less",
-        "source": "vanilla",
-        "resourcepack": "https://drive.google.com/uc?export=download&id=1_yI5mR0XuC_tiuhaX6VXfXeD6cOIplps",
-        "shader": false
-      }
+      "id": "ddn-1-21-4",
+      "name": "뒷동네 (Minecraft 1.21.4)",
+      "description": "뒷동네 힐링 서버 (Purpur 1.21.4)",
+      "icon": "https://raw.githubusercontent.com/siny9113/ddn/refs/heads/main/distribution/logo.png",
+      "version": "1.0.0",
+      "address": "dzjh.o-r.kr:25565",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "DDN 1.21.4",
+        "largeImageText": "뒷동네 서버",
+        "largeImageKey": ""
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": []
     }
-  ],
-  "launch": {
-    "memory": {
-      "min": 2048,
-      "max": 4096
-    }
-  }
+  ]
 }
