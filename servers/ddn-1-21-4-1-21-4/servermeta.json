@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///E:/ddn-nebula/Root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "뒷동네 (Minecraft 1.21.4)",
+    "description": "뒷동네 힐링 서버 (Purpur 1.21.4)",
+    "icon": "https://raw.githubusercontent.com/siny9113/ddn/main/distribution/logo.png",
+    "address": "dzjh.o-r.kr:25565",
+    "discord": {
+      "shortId": "DDN 1.21.4",
+      "largeImageText": "뒷동네 서버",
+      "largeImageKey": ""
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.18.1"
+  },
+  "untrackedFiles": []
+}
