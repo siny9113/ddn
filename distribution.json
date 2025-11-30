@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "ddn-1-21-4-1.21.4",
+      "id": "ddn-1-21-4-1-21-4",
       "name": "뒷동네 (Minecraft 1.21.4)",
       "description": "뒷동네 힐링 서버 (Purpur 1.21.4)",
       "icon": "https://raw.githubusercontent.com/siny9113/ddn/main/distribution/logo.png",
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 701826,
                 "MD5": "d0f4187a62328d4a95f3428434efbd48",
-                "url": "https://raw.githubusercontent.com/siny9113/ddn/main/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+                "url": "https://raw.githubusercontent.com/siny9113/ddn/main/repo/lib/net/fabricmc/intermediary/1-21-4/intermediary-1.21.4.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1-21-4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1-21-4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1-21-4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -151,7 +151,7 @@
           "type": "File",
           "artifact": {
             "size": 3593,
-            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1.21.4/files/options.txt",
+            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1-21-4/files/options.txt",
             "MD5": "199a91ae76a1acbb49fbfc3424a361a7",
             "path": "options.txt"
           }
@@ -162,7 +162,7 @@
           "type": "File",
           "artifact": {
             "size": 1121678,
-            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1.21.4/files/shaderpacks/BSL_v10.0.zip",
+            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1-21-4/files/shaderpacks/BSL_v10.0.zip",
             "MD5": "a4d53a8d2a97d99e4e9ebc16eae7a39c",
             "path": "shaderpacks/BSL_v10.0.zip"
           }
