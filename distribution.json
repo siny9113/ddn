@@ -146,16 +146,6 @@
           }
         },
         {
-          "id": "io.github.kosmx.emotes:emotecraft:2.5.8@jar",
-          "name": "Emotecraft",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1259819,
-            "url": "https://raw.githubusercontent.com/siny9113/ddn/main/servers/ddn-1-21-4-1-21-4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
-            "MD5": "ecbcffd1aa9d83847e00da62fc45d9b3"
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.119.4+1.21.4@jar",
           "name": "Fabric API",
           "type": "FabricMod",
